@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Gidiesse github"
+---
+
 # Welcome
 
 ## Latest Posts
